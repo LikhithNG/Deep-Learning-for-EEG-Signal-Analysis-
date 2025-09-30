@@ -137,10 +137,4 @@ Training results include:
 - ROC curves
 - Model comparison charts
 
-## License
 
-[Specify your license here]
-
-## Acknowledgments
-
-[Add any acknowledgments here]
